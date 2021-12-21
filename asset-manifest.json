@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/BadSantaDapp/static/js/main.e8777ece.chunk.js",
-    "main.js.map": "/BadSantaDapp/static/js/main.e8777ece.chunk.js.map",
+    "main.js": "/BadSantaDapp/static/js/main.9dcbc547.chunk.js",
+    "main.js.map": "/BadSantaDapp/static/js/main.9dcbc547.chunk.js.map",
     "runtime-main.js": "/BadSantaDapp/static/js/runtime-main.79db7332.js",
     "runtime-main.js.map": "/BadSantaDapp/static/js/runtime-main.79db7332.js.map",
     "static/js/2.e6993c58.chunk.js": "/BadSantaDapp/static/js/2.e6993c58.chunk.js",
     "static/js/2.e6993c58.chunk.js.map": "/BadSantaDapp/static/js/2.e6993c58.chunk.js.map",
     "index.html": "/BadSantaDapp/index.html",
     "static/js/2.e6993c58.chunk.js.LICENSE.txt": "/BadSantaDapp/static/js/2.e6993c58.chunk.js.LICENSE.txt",
-    "static/media/MintBackground.00f211c7.GIF": "/BadSantaDapp/static/media/MintBackground.00f211c7.GIF"
+    "static/media/WebsiteBanner.7506074d.png": "/BadSantaDapp/static/media/WebsiteBanner.7506074d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.79db7332.js",
     "static/js/2.e6993c58.chunk.js",
-    "static/js/main.e8777ece.chunk.js"
+    "static/js/main.9dcbc547.chunk.js"
   ]
 }
