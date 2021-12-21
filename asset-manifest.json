@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/nicknovoa03/BadSantaDapp/static/js/main.e8777ece.chunk.js",
-    "main.js.map": "/nicknovoa03/BadSantaDapp/static/js/main.e8777ece.chunk.js.map",
-    "runtime-main.js": "/nicknovoa03/BadSantaDapp/static/js/runtime-main.450e3041.js",
-    "runtime-main.js.map": "/nicknovoa03/BadSantaDapp/static/js/runtime-main.450e3041.js.map",
-    "static/js/2.72412ffd.chunk.js": "/nicknovoa03/BadSantaDapp/static/js/2.72412ffd.chunk.js",
-    "static/js/2.72412ffd.chunk.js.map": "/nicknovoa03/BadSantaDapp/static/js/2.72412ffd.chunk.js.map",
-    "index.html": "/nicknovoa03/BadSantaDapp/index.html",
-    "static/js/2.72412ffd.chunk.js.LICENSE.txt": "/nicknovoa03/BadSantaDapp/static/js/2.72412ffd.chunk.js.LICENSE.txt",
-    "static/media/MintBackground.00f211c7.GIF": "/nicknovoa03/BadSantaDapp/static/media/MintBackground.00f211c7.GIF"
+    "main.js": "/BadSantaDapp/static/js/main.e8777ece.chunk.js",
+    "main.js.map": "/BadSantaDapp/static/js/main.e8777ece.chunk.js.map",
+    "runtime-main.js": "/BadSantaDapp/static/js/runtime-main.79db7332.js",
+    "runtime-main.js.map": "/BadSantaDapp/static/js/runtime-main.79db7332.js.map",
+    "static/js/2.e6993c58.chunk.js": "/BadSantaDapp/static/js/2.e6993c58.chunk.js",
+    "static/js/2.e6993c58.chunk.js.map": "/BadSantaDapp/static/js/2.e6993c58.chunk.js.map",
+    "index.html": "/BadSantaDapp/index.html",
+    "static/js/2.e6993c58.chunk.js.LICENSE.txt": "/BadSantaDapp/static/js/2.e6993c58.chunk.js.LICENSE.txt",
+    "static/media/MintBackground.00f211c7.GIF": "/BadSantaDapp/static/media/MintBackground.00f211c7.GIF"
   },
   "entrypoints": [
-    "static/js/runtime-main.450e3041.js",
-    "static/js/2.72412ffd.chunk.js",
+    "static/js/runtime-main.79db7332.js",
+    "static/js/2.e6993c58.chunk.js",
     "static/js/main.e8777ece.chunk.js"
   ]
 }
